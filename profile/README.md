@@ -14,11 +14,7 @@ Join our vibrant Discord community and connect with fellow developers and enthus
 
 ## Projects
 
-Here are some of our noteworthy projects:
-
-- [Project Discord](https://github.com/StarnavyDevs/project-discord)
-
-Feel free to explore these projects and see the innovative solutions we have built. If you have any questions or suggestions, don't hesitate to reach out to us. We welcome collaboration and feedback!
+SOON!
 
 ## Contributing
 
